@@ -1,0 +1,3 @@
+#ifndef SPECSTRINGS_ADT_H__
+#define SPECSTRINGS_ADT_H__
+#endif /// SPECSTRINGS_ADT_H__
